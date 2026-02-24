@@ -1,0 +1,53 @@
+project:
+  type: website
+  output-dir: docs
+  resources: resources
+  
+website:
+  title: "ADS Training School '25"
+  site-url: https://archaeologydataservice.ac.uk/
+  favicon: images/ads.png
+  
+  search:
+    location: navbar
+    type: overlay
+  
+  navbar:
+    logo: figs/ads.png
+    href: https://archaeologydataservice.ac.uk/
+    background: "#6956A4"
+    foreground: "#FFFFFF"
+    pinned: true
+    right:
+      - href: info.qmd
+        text: Info
+        icon: info-circle-fill
+      - href: application.qmd
+        text: Applications
+        icon: clipboard2-
+      - href: programme.qmd
+        text: Programme
+        icon: calendar2-day
+      - href: about.qmd
+        text: About
+        icon: people-fill
+      - href: https://github.com/nickyjgarland/tna-training-school-2025
+        icon: github
+  
+  page-footer: 
+    background: "#6956A4"
+    left: "This page is built with [Quarto](https://quarto.org/)."
+    right: 
+      - text: "CC-BY 4.0 licence."
+        href: https://creativecommons.org/licenses/by/4.0/deed.en
+
+format:
+  html:
+    theme: cosmo
+    mainfont: Barlow
+    css: styles.css
+    toc: true
+    link-external-newwindow: true
+    header-includes: |
+      <link href="https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+

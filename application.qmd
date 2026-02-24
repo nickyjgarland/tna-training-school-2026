@@ -1,0 +1,40 @@
+---
+title: "Applications"
+---
+
+The ADS Training School is part of the ATRIUM Transnational Access (TNA) Scheme. More information about the scheme can be found on the ATRIUM website on the [TNA pages](https://atrium-research.eu/travel-grants/).
+
+## Key dates
+
+|                         |                                                |
+|-------------------------|------------------------------------------------|
+| March 2026              | Call for participants opens                    |
+| **31 May 2026**         | **Deadline for applications**                  |
+| End July 2026           | Acceptance notifications sent before this date |
+| **12-16 November 2026** | **Training school**                            |
+| End December 2026       | Deadline for submission of reports             |
+| End December 2026       | Grants paid before this date                   |
+
+## ✍️ Apply here
+
+ATRIUM's Transnational Access (TNA) scheme offers researchers the possibility to apply for a fully funded placement at a number of different partner organisations to access expert knowledge and advice from leading Data Management organisations across Europe. The ADS Training School is one of a number available via the TNA scheme. For a full list please see the list of Host Organisations at the bottom of the [TNA webpages](https://atrium-research.eu/travel-grants/).
+
+::: callout-tip
+Applications to the ADS Training School should be made through this [online form](https://docs.google.com/forms/d/e/1FAIpQLSctI5Dw7VhUmVKQxSj7lPwGWCvEKU3oI5YlRi0Y1MihDKTXGg/viewform)
+:::
+
+## Application Process
+
+For more information about eligibility requirements, the information required and Frequently Asked Questions can be found on the [Application pages](https://atrium-research.eu/transnational-access-scheme-application-process-summer-schools).
+
+::: callout-caution
+## Important
+
+Only applicants with organisational affiliations **outside of the UK** are eligible to receive funding.
+:::
+
+If you are successful in your application you are required to:
+
+-   Provide feedback to the ADS on training school after your visit.
+
+-   Provide ATRIUM with the details of any outputs resulting from the TNA scheme.

@@ -1,0 +1,43 @@
+![](figs/ads-logotype.png){fig-alt="ADS Logo" fig-align="center" width="317"}
+
+# ADS Transnational Access Training School
+
+## Mapping to ARIADNE
+
+This training school will introduce participants to current good practice for data stewardship and provide them the skills to apply these practices to their own work. The training school curriculum will focus on the topics of digital preservation and data management for archaeological datasets, however, the principles are broadly applicable across Arts and Humanities disciplines. All training will be provided by specialists from the Archaeology Data Service.
+
+Topics covered in this training school will include:
+
+-   An Introduction to the Archaeology Data Service
+-   Effective Research Data Management
+-   Good Practice in Digital Preservation
+-   Maximising Data Dissemination and Reuse
+
+This training school will include time to discuss the needs of your own organisation or project one-on-one with experts from the ADS.
+
+## Training School 2026
+
+📆 **Date** 12 to 16 October 2026
+
+🌍 **Location** Guildhall, The Courtyard, Coney St, York YO1 9QN
+
+Please see the [Information](info.qmd) page for more details.
+
+------------------------------------------------------------------------
+
+The training school is provided as part of the [ATRIUM](https://atrium-research.eu/travel-grants/) Project's Transnational Access scheme and is hosted by the [Archaeology Data Service](https://archaeologydataservice.ac.uk/){.external}, a digital repository hosted by the [Department of Archaeology at the University of York](https://www.york.ac.uk/archaeology/){.external}.
+
+This annual program will run from 2024 through 2026, welcoming up to 10 participants each year for an intensive one-week training experience.
+
+:::::: columns
+::: {.column width="40%"}
+[![](figs/Clay_atrium.png)](https://atrium-research.eu)
+:::
+
+::: {.column width="20%"}
+:::
+
+::: {.column width="30%"}
+[![](figs/UOY-Logo_black.png)](https://www.york.ac.uk/)
+:::
+::::::

@@ -1,0 +1,46 @@
+---
+title: "Information"
+---
+
+## 📅 Dates
+
+The training school will take place from **Monday 12th to Friday 16 October 2026**.
+
+## 🌍 Location
+
+The session will be held in person at the main offices of the [Archaeology Data Service](https://archaeologydataservice.ac.uk/). Please see the map below for the exact location.
+
+The address of the ADS offices are:
+
+> Guildhall, The Courtyard, Coney St, York YO1 9QN
+
+```{r ads map}
+#| echo: false
+library(leaflet)
+kings <- c(-1.0854442, 53.9597657)
+popup <- paste0("<a href=https://maps.app.goo.gl/RAUtkcQVUUmy4bd96 target=_external>Google Maps</a>")
+leaflet() %>% 
+  addTiles() %>% 
+  setView(lng = kings[1], lat = kings[2], zoom = 20) %>% 
+  addMarkers(lng = kings[1], lat = kings[2], popup = popup)
+```
+
+## 📖 Expenses
+
+The ADS Training School is facilitated through the ATRIUM project [Transnational Access Scheme](https://atrium-research.eu/travel-grants/). By applying to this scheme expenses incurred through attending the training school will be reimbursed to successful applicants.
+
+This scheme covers the following expenses:
+
+-   International travel (including all travel costs within the UK)
+-   Accommodation for the duration of the training school
+-   Subsistence expenses
+
+## ✈️ Travelling to York
+
+The nearest airport to the University is Manchester Airport and there is a direct train from London from Kings Cross Station. Kings Cross is a short walk from St Pancras International Station, which is served by the Eurostar. For more information about travelling to York international please visit the ['Arriving from Overseas'](https://www.york.ac.uk/students/new/international/travelling-to-york/) webpage on the University of York website.
+
+More information is accessible via the [Univeristy of York's travel webpages](https://www.york.ac.uk/about/transport-maps-parking/){.external}.
+
+## 🏨 Accomadation
+
+York has a number of choices for accommodation in and around the city. Please look at the [Visit York website](https://visityork.org/business-directory/category/stay) for more information. If you are accepted to the Training School, we would be happy to provide you with some suggestions about where to stay in York.
