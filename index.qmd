@@ -4,7 +4,7 @@
 
 ## Linked Open Data and Semantic Mapping: Publishing your archaeological data to ARIADNE
 
-This five day training school will instruct participants with the understanding and practical skills needed for semantic data mapping of archaeological and heritage data. This training school will focus on how to map data to the ARIADNE portal, a central point of access to digital archives and online resources related to archaeology and heritage from throughout Europe.
+This five day training school will instruct participants with the understanding and practical skills needed for semantic data mapping of archaeological and heritage data. This training school will focus on how to map data and aggregate it to the ARIADNE portal, a central point of access to digital archives and online resources related to archaeology and heritage from throughout Europe.
 
 No previous experience is necessary, however, participants will be required to have a real-world dataset that they would like to map to the ARIADNE Portal.
 
