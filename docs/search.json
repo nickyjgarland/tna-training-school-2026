@@ -1,0 +1,128 @@
+[
+  {
+    "objectID": "programme.html",
+    "href": "programme.html",
+    "title": "Training School Programme",
+    "section": "",
+    "text": "The training school will take place over five days, beginning with theoretical information, structured teaching and hands on activities and allowing time towards the end of the week to apply practices to your own datasets."
+  },
+  {
+    "objectID": "programme.html#outline",
+    "href": "programme.html#outline",
+    "title": "Training School Programme",
+    "section": "Outline",
+    "text": "Outline\nThe training school will begin by instructing participants in the foundational concepts of Linked Open Data (LOD) and semantic mapping for cultural heritage, covering key principles, benefits, and relevant standards and controlled vocabularies. Participants will learn about the development and structure of the ARIADNE portal and the data standard that underpins it - the AO-Cat ontology, a subset of CIDOC-CRM framework.\nThe remainder of the training school will be dedicated to developing practical skills for data mapping, by using ARIADNE’s mapping tools and resources including the X3ML Toolkit and Vocabulary mapping tool, as well as related software such as Open Refine. By the end of the training week, participants will have gained all the skills they need to map their archaeological and heritage data to the ARIADNE portal.\nNo previous experience is necessary, however, participants will be required to have a real-world dataset that they would like to map to the ARIADNE Portal. The workshop will use example datasets to train participants, which will lead them to map their own data to the ARIADNE portal with support from staff from the ADS and other experts.\nThis page provides the preliminary programme for the training school, including the topics covered. Further details will be added below as topics and events are finalised."
+  },
+  {
+    "objectID": "programme.html#schedule",
+    "href": "programme.html#schedule",
+    "title": "Training School Programme",
+    "section": "🗓️ Schedule",
+    "text": "🗓️ Schedule\nTraining begins each day at 9.30am and finishes at 4pm. Coffee breaks will take place in the ADS Offices. Lunch is not provided but there are a number of cafes and restaurants are in close proximity.\n\nMonday 12th October - Introduction\n\n\nTuesday 13th October - Linked Open Data and Semantic Mapping\n\n\nWednesday 14th October - The ARIADNE Portal, CIDOC-CRM and the AO-Cat Ontology\n\n\nThursday 15th October - Mapping Tools - Practical sessions\n\n\nFriday 16th October - Mapping Sessions continued"
+  },
+  {
+    "objectID": "index.html#linked-open-data-and-semantic-mapping-publishing-your-archaeological-data-to-ariadne",
+    "href": "index.html#linked-open-data-and-semantic-mapping-publishing-your-archaeological-data-to-ariadne",
+    "title": "ADS Transnational Access Training School",
+    "section": "Linked Open Data and Semantic Mapping: Publishing your archaeological data to ARIADNE",
+    "text": "Linked Open Data and Semantic Mapping: Publishing your archaeological data to ARIADNE\nThis five day training school will instruct participants with the understanding and practical skills needed for semantic data mapping of archaeological and heritage data. This training school will focus on how to map data and aggregate it to the ARIADNE portal, a central point of access to digital archives and online resources related to archaeology and heritage from throughout Europe.\nNo previous experience is necessary, however, participants will be required to have a real-world dataset that they would like to map to the ARIADNE Portal.\nTopics covered in this training school will include:\n\nAn Introduction to Linked Open Data\nThe principles of semantic data integration\nThe ARIADNE Portal, CIDOC-CRM and the AO-Cat Ontology\nPreparing your data to map to the ARIADNE Portal\nHow to use ARIADNE’s mapping tools and resources"
+  },
+  {
+    "objectID": "index.html#training-school-2026",
+    "href": "index.html#training-school-2026",
+    "title": "ADS Transnational Access Training School",
+    "section": "Training School 2026",
+    "text": "Training School 2026\n📆 Date 12 to 16 October 2026\n🌍 Location Guildhall, The Courtyard, Coney St, York YO1 9QN\nPlease see the Information page for more details.\n\nThe training school is provided as part of the ATRIUM Project’s Transnational Access scheme and is hosted by the Archaeology Data Service, a digital repository hosted by the Department of Archaeology at the University of York.\nThis annual program will run from 2024 through 2026, welcoming up to 10 participants each year for an intensive one-week training experience."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "The Archaeology Data Service",
+    "section": "",
+    "text": "The Archaeology Data Service (ADS) is the leading accredited repository in the UK for archaeology and historic environment data. With over 25 years of experience the ADS supports research, learning and teaching with free, high quality and dependable digital resources."
+  },
+  {
+    "objectID": "about.html#your-instructors",
+    "href": "about.html#your-instructors",
+    "title": "The Archaeology Data Service",
+    "section": "👩‍🏫 Your instructors",
+    "text": "👩‍🏫 Your instructors\nDr Nicky Garland  0000-0002-6789-0779\nNicky is the Training and Communications Manager at the Archaeology Data Service (ADS). Nicky is an archaeologist with experience of teaching and training in both developer-led archaeology and academia.\nNicky is the course convenor for this Training School and the contact1 for all of your questions.\nDr Émilie Pagé-Perron  0000-0002-9878-9200\nÉmilie is a Research Associate at the ADS. Émilie is the lead for metadata workflows as part of the ATRIUM project.\nDr Sarah Middle\nSarah is a Post-doctoral Research Associate at the ADS. Sarah provides research and project management support across major European cultural heritage infrastructure projects, including ARTEMIS, AUTOMATA and ECHOES.\nDr Tim Evans  0000-0002-2725-6730\nTim is the Deputy Director of the ADS. Tim holds responsibility for all day-to-day operational issues at the ADS, and alongside our Director Prof Julian Richards is responsible for strategic development.\nDr Holly Wright  0000-0002-3403-4159\nHolly is the Research Projects Manager of the ADS. Holly manages and implements the ADS contribution to a range of major international research projects.\nDr Ewan Chipping\nEwan is the HSDS Training Officer. He is responsible for designing and delivering training to users of the service.\n\nATRIUM\nAdvancing FronTier Research In the Arts and hUManities (ATRIUM) is a European Commission funded project that aims to exploit and strengthen interconnections between leading European infrastructures: (DARIAH, ARIADNE, CLARIN, OPERAS) to improve access to a portfolio of state-of-the-art services available to researchers across countries, languages, domains and media. This project will build on a shared understanding and interoperability principles established in the SSHOC (Social Sciences & Humanities Open Cloud) cluster project and other previous collaborations.\nFor more information about ATRIUM please visit the project website."
+  },
+  {
+    "objectID": "about.html#footnotes",
+    "href": "about.html#footnotes",
+    "title": "The Archaeology Data Service",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nnicky.garland@york.ac.uk↩︎"
+  },
+  {
+    "objectID": "application.html",
+    "href": "application.html",
+    "title": "Applications",
+    "section": "",
+    "text": "The ADS Training School is part of the ATRIUM Transnational Access (TNA) Scheme. More information about the scheme can be found on the ATRIUM website on the TNA pages."
+  },
+  {
+    "objectID": "application.html#key-dates",
+    "href": "application.html#key-dates",
+    "title": "Applications",
+    "section": "Key dates",
+    "text": "Key dates\n\n\n\n\n\n\n\nMarch 2026\nCall for participants opens\n\n\n31 May 2026\nDeadline for applications\n\n\nEnd July 2026\nAcceptance notifications sent before this date\n\n\n12-16 November 2026\nTraining school\n\n\nEnd December 2026\nDeadline for submission of reports\n\n\nEnd December 2026\nGrants paid before this date"
+  },
+  {
+    "objectID": "application.html#apply-here",
+    "href": "application.html#apply-here",
+    "title": "Applications",
+    "section": "✍️ Apply here",
+    "text": "✍️ Apply here\nATRIUM’s Transnational Access (TNA) scheme offers researchers the possibility to apply for a fully funded placement at a number of different partner organisations to access expert knowledge and advice from leading Data Management organisations across Europe. The ADS Training School is one of a number available via the TNA scheme. For a full list please see the list of Host Organisations at the bottom of the TNA webpages.\n\n\n\n\n\n\nTip\n\n\n\nApplications to the ADS Training School should be made through this online form"
+  },
+  {
+    "objectID": "application.html#application-process",
+    "href": "application.html#application-process",
+    "title": "Applications",
+    "section": "Application Process",
+    "text": "Application Process\nFor more information about eligibility requirements, the information required and Frequently Asked Questions can be found on the Application pages.\n\n\n\n\n\n\nImportant\n\n\n\nOnly applicants with organisational affiliations outside of the UK are eligible to receive funding.\n\n\nIf you are successful in your application you are required to:\n\nWrite a report about your visit.\nProvide feedback to the ADS on training school after your visit.\nProvide ATRIUM with the details of any outputs resulting from the TNA scheme."
+  },
+  {
+    "objectID": "info.html",
+    "href": "info.html",
+    "title": "Information",
+    "section": "",
+    "text": "The training school will take place from Monday 12th to Friday 16 October 2026."
+  },
+  {
+    "objectID": "info.html#dates",
+    "href": "info.html#dates",
+    "title": "Information",
+    "section": "",
+    "text": "The training school will take place from Monday 12th to Friday 16 October 2026."
+  },
+  {
+    "objectID": "info.html#location",
+    "href": "info.html#location",
+    "title": "Information",
+    "section": "🌍 Location",
+    "text": "🌍 Location\nThe session will be held in person at the main offices of the Archaeology Data Service. Please see the map below for the exact location.\nThe address of the ADS offices are:\n\nGuildhall, The Courtyard, Coney St, York YO1 9QN"
+  },
+  {
+    "objectID": "info.html#expenses",
+    "href": "info.html#expenses",
+    "title": "Information",
+    "section": "📖 Expenses",
+    "text": "📖 Expenses\nThe ADS Training School is facilitated through the ATRIUM project Transnational Access Scheme. By applying to this scheme expenses incurred through attending the training school will be reimbursed to successful applicants.\nThis scheme covers the following expenses:\n\nInternational travel (including all travel costs within the UK)\nAccommodation for the duration of the training school\nSubsistence expenses"
+  },
+  {
+    "objectID": "info.html#travelling-to-york",
+    "href": "info.html#travelling-to-york",
+    "title": "Information",
+    "section": "✈️ Travelling to York",
+    "text": "✈️ Travelling to York\nThe nearest airport to the University is Manchester Airport and there is a direct train from London from Kings Cross Station. Kings Cross is a short walk from St Pancras International Station, which is served by the Eurostar. For more information about travelling to York international please visit the ‘Arriving from Overseas’ webpage on the University of York website.\nMore information is accessible via the Univeristy of York’s travel webpages."
+  },
+  {
+    "objectID": "info.html#accomadation",
+    "href": "info.html#accomadation",
+    "title": "Information",
+    "section": "🏨 Accomadation",
+    "text": "🏨 Accomadation\nYork has a number of choices for accommodation in and around the city. Please look at the Visit York website for more information. If you are accepted to the Training School, we would be happy to provide you with some suggestions about where to stay in York."
+  }
+]
