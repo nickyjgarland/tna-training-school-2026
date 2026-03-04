@@ -2,52 +2,30 @@
 title: "Training School Programme"
 ---
 
-The training school will take place over five days, beginning with structured teaching and hands on activities and allowing time towards the end of the week to discuss how to apply these good practices to the applicants own circumstances.
+The training school will take place over five days, beginning with theoretical information, structured teaching and hands on activities and allowing time towards the end of the week to apply practices to your own datasets.
+
+## Outline
+
+The training school will begin by instructing participants in the foundational concepts of Linked Open Data (LOD) and semantic mapping for cultural heritage, covering key principles, benefits, and relevant standards and controlled vocabularies. Participants will learn about the development and structure of the ARIADNE portal and the data standard that underpins it - the AO-Cat ontology, a subset of CIDOC-CRM framework.
+
+The remainder of the training school will be dedicated to developing practical skills for data mapping, by using ARIADNE’s mapping tools and resources including the X3ML Toolkit and Vocabulary mapping tool, as well as related software such as Open Refine. By the end of the training week, participants will have gained all the skills they need to map their archaeological and heritage data to the ARIADNE portal.
+
+No previous experience is necessary, however, participants will be required to have a real-world dataset that they would like to map to the ARIADNE Portal. The workshop will use example datasets to train participants, which will lead them to map their own data to the ARIADNE portal with support from staff from the ADS and other experts.
 
 This page provides the preliminary programme for the training school, including the topics covered. Further details will be added below as topics and events are finalised.
+
+------------------------------------------------------------------------
 
 ## 🗓️ Schedule
 
 Training begins each day at 9.30am and finishes at 4pm. Coffee breaks will take place in the ADS Offices. Lunch is not provided but there are a number of cafes and restaurants are in close proximity.
 
-### Monday 10th November - Introduction
+### Monday 12th October - Introduction
 
--   Tour of Kings Manor and the ADS Offices
--   Welcome - Outline of Training Programme
--   Introduction to the ADS
--   Collection Highlights from the ADS
--   Attendee introductions
+### Tuesday 13th October - Linked Open Data and Semantic Mapping
 
-### Tuesday 11th November - Data Management
+### Wednesday 14th October - The ARIADNE Portal, CIDOC-CRM and the AO-Cat Ontology
 
--   Open Research and Cultural Heritage
--   The FAIR and CARE data principles
--   An Introduction to Data Management
--   Data Management Plans
--   The Importance of [Metadata](https://archaeologydataservice.ac.uk/about/endpoints.xhtml)
--   Interactive learning session - Metadata
--   Case Study: The CHERISH Project
+### Thursday 15th October - Mapping Tools - Practical sessions
 
-### Wednesday 12th November - Digital Preservation and Quality Assurance
-
--   An Introduction to Digital Preservation
--   Workflows for Archives - Tour of the ADS archiving workflow
--   Digital Preservation Coalition - Rapid Assessment Model
--   File Formats - Migration and Normalisation of Files
--   Selection and Retention Strategies
--   Data Storage and Backup
-
-### Thursday 13th November - Dissemination and Data Reuse
-
--   Archive Interfaces
--   Communication and Dissemination
--   Disseminating Research and Data - A Case Study from the ADS
--   Designing a dissemination plan
--   Facilitating [Data Reuse](https://archaeologydataservice.ac.uk/about/dataReuse.xhtml)
--   Digital Publication
--   Identifying objectives for One on One Sessions
-
-### 🧑 Friday 14th November - One-to-one sessions with experts from the ADS
-
-Participants will be matched with an appropriate expert from the ADS to discuss their specific needs and requirements for their organisation or research project. We recommend that each participant come to the training school with a specific requirement in mind, however, we can also help to provide support during the training school.
-
+### Friday 16th October - Mapping Sessions continued

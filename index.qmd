@@ -2,18 +2,19 @@
 
 # ADS Transnational Access Training School
 
-## Mapping to ARIADNE
+## Linked Open Data and Semantic Mapping: Publishing your archaeological data to ARIADNE
 
-This training school will introduce participants to current good practice for data stewardship and provide them the skills to apply these practices to their own work. The training school curriculum will focus on the topics of digital preservation and data management for archaeological datasets, however, the principles are broadly applicable across Arts and Humanities disciplines. All training will be provided by specialists from the Archaeology Data Service.
+This five day training school will instruct participants with the understanding and practical skills needed for semantic data mapping of archaeological and heritage data. This training school will focus on how to map data to the ARIADNE portal, a central point of access to digital archives and online resources related to archaeology and heritage from throughout Europe.
+
+No previous experience is necessary, however, participants will be required to have a real-world dataset that they would like to map to the ARIADNE Portal.
 
 Topics covered in this training school will include:
 
--   An Introduction to the Archaeology Data Service
--   Effective Research Data Management
--   Good Practice in Digital Preservation
--   Maximising Data Dissemination and Reuse
-
-This training school will include time to discuss the needs of your own organisation or project one-on-one with experts from the ADS.
+-   An Introduction to Linked Open Data
+-   The principles of semantic data integration
+-   The ARIADNE Portal, CIDOC-CRM and the AO-Cat Ontology
+-   Preparing your data to map to the ARIADNE Portal
+-   How to use ARIADNE’s mapping tools and resources
 
 ## Training School 2026
 

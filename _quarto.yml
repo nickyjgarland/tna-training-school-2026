@@ -4,7 +4,7 @@ project:
   resources: resources
   
 website:
-  title: "ADS Training School '25"
+  title: "ADS Training School '26"
   site-url: https://archaeologydataservice.ac.uk/
   favicon: images/ads.png
   
@@ -15,7 +15,7 @@ website:
   navbar:
     logo: figs/ads.png
     href: https://archaeologydataservice.ac.uk/
-    background: "#6956A4"
+    background: "#326537"
     foreground: "#FFFFFF"
     pinned: true
     right:
@@ -31,11 +31,11 @@ website:
       - href: about.qmd
         text: About
         icon: people-fill
-      - href: https://github.com/nickyjgarland/tna-training-school-2025
+      - href: https://github.com/nickyjgarland/tna-training-school-2026
         icon: github
   
   page-footer: 
-    background: "#6956A4"
+    background: "#326537"
     left: "This page is built with [Quarto](https://quarto.org/)."
     right: 
       - text: "CC-BY 4.0 licence."

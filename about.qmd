@@ -10,15 +10,7 @@ The [Archaeology Data Service](https://archaeologydataservice.ac.uk/) (ADS) is t
 
 Nicky is the Training and Communications Manager at the Archaeology Data Service (ADS). Nicky is an archaeologist with experience of teaching and training in both developer-led archaeology and academia.
 
-Nicky is the course convenor for this Training School and the [contact](nicky.garland@york.ac.uk) for all of your questions.
-
-**Dr Tim Evans** [{{< ai orcid >}} 0000-0002-2725-6730](https://orcid.org/0000-0002-2725-6730)
-
-Tim is the Deputy Director of the ADS. Tim holds responsibility for all day-to-day operational issues at the ADS, and alongside our Director Prof Julian Richards is responsible for strategic development.
-
-**Dr Holly Wright** [{{< ai orcid >}} 0000-0002-3403-4159](https://orcid.org/0000-0002-3403-4159)
-
-Holly is the Research Projects Manager of the ADS. Holly manages and implements the ADS contribution to a range of major international research projects.
+Nicky is the course convenor for this Training School and the contact^[nicky.garland@york.ac.uk] for all of your questions.
 
 **Dr Émilie Pagé-Perron** [{{< ai orcid >}} 0000-0002-9878-9200](https://orcid.org/0000-0002-9878-9200)
 
@@ -27,6 +19,14 @@ Holly is the Research Projects Manager of the ADS. Holly manages and implements 
 **Dr Sarah Middle**
 
 Sarah is a Post-doctoral Research Associate at the ADS. Sarah provides research and project management support across major European cultural heritage infrastructure projects, including ARTEMIS, AUTOMATA and ECHOES.
+
+**Dr Tim Evans** [{{< ai orcid >}} 0000-0002-2725-6730](https://orcid.org/0000-0002-2725-6730)
+
+Tim is the Deputy Director of the ADS. Tim holds responsibility for all day-to-day operational issues at the ADS, and alongside our Director Prof Julian Richards is responsible for strategic development.
+
+**Dr Holly Wright** [{{< ai orcid >}} 0000-0002-3403-4159](https://orcid.org/0000-0002-3403-4159)
+
+Holly is the Research Projects Manager of the ADS. Holly manages and implements the ADS contribution to a range of major international research projects.
 
 **Dr Ewan Chipping**
 
