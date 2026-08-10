@@ -6,7 +6,7 @@ project:
 website:
   title: "ADS Training School '26"
   site-url: https://archaeologydataservice.ac.uk/
-  favicon: images/ads.png
+  favicon: figs/ads.png
   
   search:
     location: navbar

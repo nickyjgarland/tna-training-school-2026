@@ -1,0 +1,15 @@
+---
+title: "Resources"
+---
+
+Resources from the Training School will be added below in due course.
+
+------------------------------------------------------------------------
+
+The following resources were materials circulated throughout the course of the ADS Training School. These resources are available to reuse under a [Creative Commons](https://creativecommons.org/) CC-BY 4.0 licence. These resources are shared in line with [ADS policies on Access and Reuse](https://archaeologydataservice.ac.uk/about/policies/use-access-to-data/).
+
+::: callout-note
+To cite the following resources please use the following citation:
+
+Archaeology Data Service (2026) ADS ATRIUM Transnational Access Training School - Linked Open Data and Semantic Mapping: Publishing your archaeological data to ARIADNE. Nov 26 \[data-set\]. York: Archaeology Data Service.
+:::

@@ -1,22 +1,24 @@
 ---
-title: "The Archaeology Data Service"
+title: "👩‍🏫 Your instructors"
 ---
 
-The [Archaeology Data Service](https://archaeologydataservice.ac.uk/) (ADS) is the leading accredited repository in the UK for archaeology and historic environment data. With over 25 years of experience the ADS supports research, learning and teaching with free, high quality and dependable digital resources.
+# Archaeology Data Service
 
-## 👩‍🏫 Your instructors
+The [Archaeology Data Service](https://archaeologydataservice.ac.uk/) (ADS) is the leading accredited repository in the UK for archaeology and historic environment data. With over 25 years of experience the ADS supports research, learning and teaching with free, high quality and dependable digital resources.
 
 **Dr Nicky Garland** [{{< ai orcid >}} 0000-0002-6789-0779](https://orcid.org/0000-0002-6789-0779)
 
 Nicky is the Training and Communications Manager at the Archaeology Data Service (ADS). Nicky is an archaeologist with experience of teaching and training in both developer-led archaeology and academia.
 
-Nicky is the course convenor for this Training School and the contact^[nicky.garland@york.ac.uk] for all of your questions.
+Nicky is the course convenor for this Training School and the contact[^1] for all of your questions.
+
+[^1]: nicky.garland\@york.ac.uk
 
 **Dr Émilie Pagé-Perron** [{{< ai orcid >}} 0000-0002-9878-9200](https://orcid.org/0000-0002-9878-9200)
 
 Émilie is a Research Associate at the ADS. Émilie is the lead for metadata workflows as part of the ATRIUM project.
 
-**Dr Sarah Middle**
+**Dr Sarah Middle** [{{< ai orcid >}} 0000-0001-7800-6777](https://orcid.org/0000-0001-7800-6777)
 
 Sarah is a Post-doctoral Research Associate at the ADS. Sarah provides research and project management support across major European cultural heritage infrastructure projects, including ARTEMIS, AUTOMATA and ECHOES.
 
@@ -28,10 +30,13 @@ Tim is the Deputy Director of the ADS. Tim holds responsibility for all day-to-d
 
 Holly is the Research Projects Manager of the ADS. Holly manages and implements the ADS contribution to a range of major international research projects.
 
-**Dr Ewan Chipping**
+# Institute of Computer Science (ICS)
 
-Ewan is the HSDS Training Officer. He is responsible for designing and delivering training to users of the service.
+The [Institute of Computer Science (ICS)](https://www.ics.forth.gr/) is one of the ten institutes of the Foundation for Research and Technology - Hellas (FORTH), a major national research centre partly funded by the General Secretariat for Research and Innovation of the Hellenic Ministry of Development and Investments. The mission of FORTH-ICS is to perform high quality basic and applied research, to promote education and training, and to contribute to the development of the Information Society, at a regional, national, and European level.
 
+**Maria Theodoridou** [{{< ai orcid >}} 0000-0002-4623-9186](https://orcid.org/0000-0002-4623-9186)
+
+[Maria](https://www.ics.forth.gr/isl/person/theodoridou/maria) is Research & Development Engineer at the Foundation for Research and Technology – Hellas, Institute of Computer Science ([FORTH-ICS](https://www.ics.forth.gr/)), Information Systems Laboratory and the Centre for Cultural Informatics (CCI).
 
 ### ATRIUM
 
