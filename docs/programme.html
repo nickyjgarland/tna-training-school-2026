@@ -2,13 +2,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.31">
+<meta name="generator" content="quarto-1.9.38">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>Training School Programme – ADS Training School ’26</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -29,17 +32,17 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./images/ads.png" rel="icon" type="image/png">
+<link href="./figs/ads.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-76c09b78791340f88bb5b484cc3c802a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-4abc3698eae81904341866e732fc32a6.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -80,7 +83,8 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./figs/ads.png" alt="" class="navbar-logo">
+    <img src="./figs/ads.png" alt="" class="navbar-logo light-content">
+    <img src="./figs/ads.png" alt="" class="navbar-logo dark-content">
     </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">ADS Training School ’26</span>
@@ -134,14 +138,8 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#outline" id="toc-outline" class="nav-link active" data-scroll-target="#outline">Outline</a></li>
-  <li><a href="#schedule" id="toc-schedule" class="nav-link" data-scroll-target="#schedule">🗓️ Schedule</a>
-  <ul class="collapse">
-  <li><a href="#monday-12th-october---introduction" id="toc-monday-12th-october---introduction" class="nav-link" data-scroll-target="#monday-12th-october---introduction">Monday 12th October - Introduction</a></li>
-  <li><a href="#tuesday-13th-october---linked-open-data-and-semantic-mapping" id="toc-tuesday-13th-october---linked-open-data-and-semantic-mapping" class="nav-link" data-scroll-target="#tuesday-13th-october---linked-open-data-and-semantic-mapping">Tuesday 13th October - Linked Open Data and Semantic Mapping</a></li>
-  <li><a href="#wednesday-14th-october---the-ariadne-portal-cidoc-crm-and-the-ao-cat-ontology" id="toc-wednesday-14th-october---the-ariadne-portal-cidoc-crm-and-the-ao-cat-ontology" class="nav-link" data-scroll-target="#wednesday-14th-october---the-ariadne-portal-cidoc-crm-and-the-ao-cat-ontology">Wednesday 14th October - The ARIADNE Portal, CIDOC-CRM and the AO-Cat Ontology</a></li>
-  <li><a href="#thursday-15th-october---mapping-tools---practical-sessions" id="toc-thursday-15th-october---mapping-tools---practical-sessions" class="nav-link" data-scroll-target="#thursday-15th-october---mapping-tools---practical-sessions">Thursday 15th October - Mapping Tools - Practical sessions</a></li>
-  <li><a href="#friday-16th-october---mapping-sessions-continued" id="toc-friday-16th-october---mapping-sessions-continued" class="nav-link" data-scroll-target="#friday-16th-october---mapping-sessions-continued">Friday 16th October - Mapping Sessions continued</a></li>
-  </ul></li>
+  <li><a href="#learning-objectives" id="toc-learning-objectives" class="nav-link" data-scroll-target="#learning-objectives">Learning Objectives</a></li>
+  <li><a href="#schedule" id="toc-schedule" class="nav-link" data-scroll-target="#schedule">🗓️ Schedule</a></li>
   </ul>
 </nav>
     </div>
@@ -176,26 +174,69 @@ ul.task-list li input[type="checkbox"] {
 <p>This page provides the preliminary programme for the training school, including the topics covered. Further details will be added below as topics and events are finalised.</p>
 <hr>
 </section>
+<section id="learning-objectives" class="level2">
+<h2 class="anchored" data-anchor-id="learning-objectives">Learning Objectives</h2>
+<ol type="1">
+<li>Explain the key principles of Linked Open Data and the relevance for archaeological and heritage data.</li>
+<li>Describe the structure of the ARIADNE portal and the AO-Cat ontology.</li>
+<li>Apply data preparation techniques using OpenRefine to clean and structure a real-world dataset for mapping.</li>
+<li>Apply the use of the X3ML Toolkit and Vocabulary Mapping Tool to map dataset fields to AO-Cat/CIDOC-CRM classes and properties.</li>
+<li>Begin to produce a complete semantic mapping of their own dataset, ready for aggregation to the ARIADNE portal</li>
+</ol>
+</section>
 <section id="schedule" class="level2">
 <h2 class="anchored" data-anchor-id="schedule">🗓️ Schedule</h2>
 <p>Training begins each day at 9.30am and finishes at 4pm. Coffee breaks will take place in the ADS Offices. Lunch is not provided but there are a number of cafes and restaurants are in close proximity.</p>
-<section id="monday-12th-october---introduction" class="level3">
-<h3 class="anchored" data-anchor-id="monday-12th-october---introduction">Monday 12th October - Introduction</h3>
-</section>
-<section id="tuesday-13th-october---linked-open-data-and-semantic-mapping" class="level3">
-<h3 class="anchored" data-anchor-id="tuesday-13th-october---linked-open-data-and-semantic-mapping">Tuesday 13th October - Linked Open Data and Semantic Mapping</h3>
-</section>
-<section id="wednesday-14th-october---the-ariadne-portal-cidoc-crm-and-the-ao-cat-ontology" class="level3">
-<h3 class="anchored" data-anchor-id="wednesday-14th-october---the-ariadne-portal-cidoc-crm-and-the-ao-cat-ontology">Wednesday 14th October - The ARIADNE Portal, CIDOC-CRM and the AO-Cat Ontology</h3>
-</section>
-<section id="thursday-15th-october---mapping-tools---practical-sessions" class="level3">
-<h3 class="anchored" data-anchor-id="thursday-15th-october---mapping-tools---practical-sessions">Thursday 15th October - Mapping Tools - Practical sessions</h3>
-</section>
-<section id="friday-16th-october---mapping-sessions-continued" class="level3">
-<h3 class="anchored" data-anchor-id="friday-16th-october---mapping-sessions-continued">Friday 16th October - Mapping Sessions continued</h3>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: left;">Day</th>
+<th style="text-align: left;">Activity</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>Monday 12th October</strong></td>
+<td style="text-align: left;"><p>10:00 - Welcome to the ADS -Julian Richards and Tim Evans, ADS 10:30 - Participant Introductions (5 mins each)</p>
+<p>13:00-14:00 Lunch Break 14:00 - An Introduction to Linked Open Data (principles, URIs, RDF/triples, benefits &amp; limitations) - Nicky Garland</p>
+<p>16:30 - Session ends</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Tuesday 13th October</strong></td>
+<td style="text-align: left;"><p>09:30 - An Introduction to the ARIADNE Portal, AO-Cat and the CIDOC CRM ecosystem - Maria Theodoridou &amp; Émilie Pagé-Perron</p>
+<p>13:00-14:00 Lunch Break</p>
+<p>14:00 - Data Preparation with Open Refine - Sarah Middle (with assistance from all)</p>
+<p>16:30 - Session ends</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Wednesday 14th October</strong></td>
+<td style="text-align: left;"><p>9:30 - CIDOC-CRM Mapping Strategies and Tools (3M) - Maria Theodoridou</p>
+<p>13:00-14:00 Lunch Break</p>
+<p>14:00 - Hands on Session - Using the 3M tool - Maria Theodoridou (with assistance from all)</p>
+<p>16:30 - Session ends</p>
+<hr>
+<p>16.30-17.30 Plenary Lecture (optional) - Dr Emilie Page-Perron, ADS - <a href="https://archaeologydataservice.ac.uk/about/projects/towards-universal-access-to-cuneiform-heritage-tua-ch-research-programme/">Towards Universal Access to Cuneiform Heritage (TUA-CH)</a></p>
+<p>Followed by drinks in the local pub.</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Thursday 15th October</strong></td>
+<td style="text-align: left;"><p>09:30 - Controlled Vocabularies and Vocabulary Matching Tools Maria Theodoridou and Sarah Middle</p>
+<p>13:00-14:00 Lunch Break</p>
+<p>14:00 - Hands on Session - Using the Vocabulary matching tool (AAT) - Sarah Middle (with assistance from all)</p>
+<p>16.00 - Peer Check in - in pairs review each other’s mapping-so-far (i.e.&nbsp;does it use correct AO-Cat classes? is vocabulary aligned?) - Nicky Garland</p>
+<p>16:30 - Session ends</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Friday 16th October</strong></td>
+<td style="text-align: left;"><p>09:30 - Hands on Session - Mapping to ARIADNE with our own datasets - All</p>
+<p>13:00-14:00 Lunch Break</p>
+<p>14:00 - Training School Wrap up - ARIADNE Membership/Q&amp;A Session / Evaluation - Nicky Garland</p>
+<p>15:00 - Training School ends</p></td>
+</tr>
+</tbody>
+</table>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->
@@ -250,13 +291,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

@@ -1,87 +1,10 @@
 [
   {
-    "objectID": "programme.html",
-    "href": "programme.html",
-    "title": "Training School Programme",
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
     "section": "",
-    "text": "The training school will take place over five days, beginning with theoretical information, structured teaching and hands on activities and allowing time towards the end of the week to apply practices to your own datasets."
-  },
-  {
-    "objectID": "programme.html#outline",
-    "href": "programme.html#outline",
-    "title": "Training School Programme",
-    "section": "Outline",
-    "text": "Outline\nThe training school will begin by instructing participants in the foundational concepts of Linked Open Data (LOD) and semantic mapping for cultural heritage, covering key principles, benefits, and relevant standards and controlled vocabularies. Participants will learn about the development and structure of the ARIADNE portal and the data standard that underpins it - the AO-Cat ontology, a subset of CIDOC-CRM framework.\nThe remainder of the training school will be dedicated to developing practical skills for data mapping, by using ARIADNE’s mapping tools and resources including the X3ML Toolkit and Vocabulary mapping tool, as well as related software such as Open Refine. By the end of the training week, participants will have gained all the skills they need to map their archaeological and heritage data to the ARIADNE portal.\nNo previous experience is necessary, however, participants will be required to have a real-world dataset that they would like to map to the ARIADNE Portal. The workshop will use example datasets to train participants, which will lead them to map their own data to the ARIADNE portal with support from staff from the ADS and other experts.\nThis page provides the preliminary programme for the training school, including the topics covered. Further details will be added below as topics and events are finalised."
-  },
-  {
-    "objectID": "programme.html#schedule",
-    "href": "programme.html#schedule",
-    "title": "Training School Programme",
-    "section": "🗓️ Schedule",
-    "text": "🗓️ Schedule\nTraining begins each day at 9.30am and finishes at 4pm. Coffee breaks will take place in the ADS Offices. Lunch is not provided but there are a number of cafes and restaurants are in close proximity.\n\nMonday 12th October - Introduction\n\n\nTuesday 13th October - Linked Open Data and Semantic Mapping\n\n\nWednesday 14th October - The ARIADNE Portal, CIDOC-CRM and the AO-Cat Ontology\n\n\nThursday 15th October - Mapping Tools - Practical sessions\n\n\nFriday 16th October - Mapping Sessions continued"
-  },
-  {
-    "objectID": "index.html#linked-open-data-and-semantic-mapping-publishing-your-archaeological-data-to-ariadne",
-    "href": "index.html#linked-open-data-and-semantic-mapping-publishing-your-archaeological-data-to-ariadne",
-    "title": "ADS Transnational Access Training School",
-    "section": "Linked Open Data and Semantic Mapping: Publishing your archaeological data to ARIADNE",
-    "text": "Linked Open Data and Semantic Mapping: Publishing your archaeological data to ARIADNE\nDeadline Extended to 19th June 2026\nThis five day training school will instruct participants with the understanding and practical skills needed for semantic data mapping of archaeological and heritage data. This training school will focus on how to map data and aggregate it to the ARIADNE portal, a central point of access to digital archives and online resources related to archaeology and heritage from throughout Europe.\nNo previous experience is necessary, however, participants will be required to have a real-world dataset that they would like to map to the ARIADNE Portal.\nTopics covered in this training school will include:\n\nAn Introduction to Linked Open Data\nThe principles of semantic data integration\nThe ARIADNE Portal, CIDOC-CRM and the AO-Cat Ontology\nPreparing your data to map to the ARIADNE Portal\nHow to use ARIADNE’s mapping tools and resources"
-  },
-  {
-    "objectID": "index.html#training-school-2026",
-    "href": "index.html#training-school-2026",
-    "title": "ADS Transnational Access Training School",
-    "section": "Training School 2026",
-    "text": "Training School 2026\n📆 Date 12 to 16 October 2026\n🌍 Location Guildhall, The Courtyard, Coney St, York YO1 9QN\nPlease see the Information page for more details.\n\nThe training school is provided as part of the ATRIUM Project’s Transnational Access scheme and is hosted by the Archaeology Data Service, a digital repository hosted by the Department of Archaeology at the University of York.\nThis annual program will run from 2024 through 2026, welcoming up to 10 participants each year for an intensive one-week training experience."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "The Archaeology Data Service",
-    "section": "",
-    "text": "The Archaeology Data Service (ADS) is the leading accredited repository in the UK for archaeology and historic environment data. With over 25 years of experience the ADS supports research, learning and teaching with free, high quality and dependable digital resources."
-  },
-  {
-    "objectID": "about.html#your-instructors",
-    "href": "about.html#your-instructors",
-    "title": "The Archaeology Data Service",
-    "section": "👩‍🏫 Your instructors",
-    "text": "👩‍🏫 Your instructors\nDr Nicky Garland  0000-0002-6789-0779\nNicky is the Training and Communications Manager at the Archaeology Data Service (ADS). Nicky is an archaeologist with experience of teaching and training in both developer-led archaeology and academia.\nNicky is the course convenor for this Training School and the contact1 for all of your questions.\nDr Émilie Pagé-Perron  0000-0002-9878-9200\nÉmilie is a Research Associate at the ADS. Émilie is the lead for metadata workflows as part of the ATRIUM project.\nDr Sarah Middle\nSarah is a Post-doctoral Research Associate at the ADS. Sarah provides research and project management support across major European cultural heritage infrastructure projects, including ARTEMIS, AUTOMATA and ECHOES.\nDr Tim Evans  0000-0002-2725-6730\nTim is the Deputy Director of the ADS. Tim holds responsibility for all day-to-day operational issues at the ADS, and alongside our Director Prof Julian Richards is responsible for strategic development.\nDr Holly Wright  0000-0002-3403-4159\nHolly is the Research Projects Manager of the ADS. Holly manages and implements the ADS contribution to a range of major international research projects.\nDr Ewan Chipping\nEwan is the HSDS Training Officer. He is responsible for designing and delivering training to users of the service.\n\nATRIUM\nAdvancing FronTier Research In the Arts and hUManities (ATRIUM) is a European Commission funded project that aims to exploit and strengthen interconnections between leading European infrastructures: (DARIAH, ARIADNE, CLARIN, OPERAS) to improve access to a portfolio of state-of-the-art services available to researchers across countries, languages, domains and media. This project will build on a shared understanding and interoperability principles established in the SSHOC (Social Sciences & Humanities Open Cloud) cluster project and other previous collaborations.\nFor more information about ATRIUM please visit the project website."
-  },
-  {
-    "objectID": "about.html#footnotes",
-    "href": "about.html#footnotes",
-    "title": "The Archaeology Data Service",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nnicky.garland@york.ac.uk↩︎"
-  },
-  {
-    "objectID": "application.html",
-    "href": "application.html",
-    "title": "Applications",
-    "section": "",
-    "text": "The ADS Training School is part of the ATRIUM Transnational Access (TNA) Scheme. More information about the scheme can be found on the ATRIUM website on the TNA pages."
-  },
-  {
-    "objectID": "application.html#key-dates",
-    "href": "application.html#key-dates",
-    "title": "Applications",
-    "section": "Key dates",
-    "text": "Key dates\n\n\n\n\n\n\n\nMarch 2026\nCall for participants opens\n\n\nExtended - 19 June 2026\nDeadline for applications\n\n\nEnd July 2026\nAcceptance notifications sent before this date\n\n\n12-16 October 2026\nTraining school\n\n\nEnd December 2026\nDeadline for submission of reports\n\n\nEnd December 2026\nGrants paid before this date"
-  },
-  {
-    "objectID": "application.html#apply-here",
-    "href": "application.html#apply-here",
-    "title": "Applications",
-    "section": "✍️ Apply here",
-    "text": "✍️ Apply here\nATRIUM’s Transnational Access (TNA) scheme offers researchers the possibility to apply for a fully funded placement at a number of different partner organisations to access expert knowledge and advice from leading Data Management organisations across Europe. The ADS Training School is one of a number available via the TNA scheme. For a full list please see the list of Host Organisations at the bottom of the TNA webpages.\n\n\n\n\n\n\nTip\n\n\n\nApplications to the ADS Training School should be made through this online form"
-  },
-  {
-    "objectID": "application.html#application-process",
-    "href": "application.html#application-process",
-    "title": "Applications",
-    "section": "Application Process",
-    "text": "Application Process\nFor more information about eligibility requirements, the information required and Frequently Asked Questions can be found on the Application pages.\n\n\n\n\n\n\nCautionImportant\n\n\n\nOnly applicants with organisational affiliations outside of the UK are eligible to receive funding.\n\n\nIf you are successful in your application you are required to:\n\nWrite a report about your visit.\nProvide feedback to the ADS on training school after your visit.\nProvide ATRIUM with the details of any outputs resulting from the TNA scheme."
+    "text": "Resources from the Training School will be added below in due course.\n\nThe following resources were materials circulated throughout the course of the ADS Training School. These resources are available to reuse under a Creative Commons CC-BY 4.0 licence. These resources are shared in line with ADS policies on Access and Reuse.\n\n\n\n\n\n\nNote\n\n\n\nTo cite the following resources please use the following citation:\nArchaeology Data Service (2026) ADS ATRIUM Transnational Access Training School - Linked Open Data and Semantic Mapping: Publishing your archaeological data to ARIADNE. Nov 26 [data-set]. York: Archaeology Data Service."
   },
   {
     "objectID": "info.html",
@@ -116,7 +39,7 @@
     "href": "info.html#travelling-to-york",
     "title": "Information",
     "section": "✈️ Travelling to York",
-    "text": "✈️ Travelling to York\nThe nearest airport to the University is Manchester Airport and there is a direct train from London from Kings Cross Station. Kings Cross is a short walk from St Pancras International Station, which is served by the Eurostar. For more information about travelling to York international please visit the ‘Arriving from Overseas’ webpage on the University of York website.\nMore information is accessible via the Univeristy of York’s travel webpages."
+    "text": "✈️ Travelling to York\nYork is well connected by rail from a number of UK airports, making it easy to reach from overseas.\n\nManchester Airport – the nearest airport to the University, with a direct train to York (approx. 1h 50m)\nNewcastle Airport – take the Tyne and Wear Metro directly from the airport to Newcastle Central Station, then a direct train to York (approx. 1 hour)\nLondon airports (Heathrow, Gatwick, Stansted) – all well connected to York by train, usually via London King’s Cross or Euston (approx. 2 hours from London). King’s Cross is a short walk from St Pancras International, which is served by the Eurostar\n\nYou can search train times and book tickets via National Rail.\nFor more information about travelling to York internationally please visit the ‘Arriving from Overseas’ webpage on the University of York website. More information is also accessible via the Univeristy of York’s travel webpages."
   },
   {
     "objectID": "info.html#accommodation",
@@ -124,5 +47,89 @@
     "title": "Information",
     "section": "🏨 Accommodation",
     "text": "🏨 Accommodation\nYork has a number of choices for accommodation in and around the city. Please look at the Visit York website for more information. If you are accepted to the Training School, we would be happy to provide you with some suggestions about where to stay in York."
+  },
+  {
+    "objectID": "application.html",
+    "href": "application.html",
+    "title": "Applications",
+    "section": "",
+    "text": "The ADS Training School is part of the ATRIUM Transnational Access (TNA) Scheme. More information about the scheme can be found on the ATRIUM website on the TNA pages."
+  },
+  {
+    "objectID": "application.html#key-dates",
+    "href": "application.html#key-dates",
+    "title": "Applications",
+    "section": "Key dates",
+    "text": "Key dates\n\n\n\n\n\n\n\nMarch 2026\nCall for participants opens\n\n\nExtended - 19 June 2026\nDeadline for applications\n\n\nEnd July 2026\nAcceptance notifications sent before this date\n\n\n12-16 October 2026\nTraining school\n\n\nEnd December 2026\nDeadline for submission of reports\n\n\nEnd December 2026\nGrants paid before this date"
+  },
+  {
+    "objectID": "application.html#apply-here",
+    "href": "application.html#apply-here",
+    "title": "Applications",
+    "section": "✍️ Apply here",
+    "text": "✍️ Apply here\nATRIUM’s Transnational Access (TNA) scheme offers researchers the possibility to apply for a fully funded placement at a number of different partner organisations to access expert knowledge and advice from leading Data Management organisations across Europe. The ADS Training School is one of a number available via the TNA scheme. For a full list please see the list of Host Organisations at the bottom of the TNA webpages.\n\n\n\n\n\n\nTip\n\n\n\nApplications to the ADS Training School should be made through this online form"
+  },
+  {
+    "objectID": "application.html#application-process",
+    "href": "application.html#application-process",
+    "title": "Applications",
+    "section": "Application Process",
+    "text": "Application Process\nFor more information about eligibility requirements, the information required and Frequently Asked Questions can be found on the Application pages.\n\n\n\n\n\n\nCautionImportant\n\n\n\nOnly applicants with organisational affiliations outside of the UK are eligible to receive funding.\n\n\nIf you are successful in your application you are required to:\n\nWrite a report about your visit.\nProvide feedback to the ADS on training school after your visit.\nProvide ATRIUM with the details of any outputs resulting from the TNA scheme."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "👩‍🏫 Your instructors",
+    "section": "",
+    "text": "The Archaeology Data Service (ADS) is the leading accredited repository in the UK for archaeology and historic environment data. With over 25 years of experience the ADS supports research, learning and teaching with free, high quality and dependable digital resources.\nDr Nicky Garland  0000-0002-6789-0779\nNicky is the Training and Communications Manager at the Archaeology Data Service (ADS). Nicky is an archaeologist with experience of teaching and training in both developer-led archaeology and academia.\nNicky is the course convenor for this Training School and the contact1 for all of your questions.\nDr Émilie Pagé-Perron  0000-0002-9878-9200\nÉmilie is a Research Associate at the ADS. Émilie is the lead for metadata workflows as part of the ATRIUM project.\nDr Sarah Middle  0000-0001-7800-6777\nSarah is a Post-doctoral Research Associate at the ADS. Sarah provides research and project management support across major European cultural heritage infrastructure projects, including ARTEMIS, AUTOMATA and ECHOES.\nDr Tim Evans  0000-0002-2725-6730\nTim is the Deputy Director of the ADS. Tim holds responsibility for all day-to-day operational issues at the ADS, and alongside our Director Prof Julian Richards is responsible for strategic development.\nDr Holly Wright  0000-0002-3403-4159\nHolly is the Research Projects Manager of the ADS. Holly manages and implements the ADS contribution to a range of major international research projects."
+  },
+  {
+    "objectID": "about.html#footnotes",
+    "href": "about.html#footnotes",
+    "title": "👩‍🏫 Your instructors",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nnicky.garland@york.ac.uk↩︎"
+  },
+  {
+    "objectID": "index.html#linked-open-data-and-semantic-mapping-publishing-your-archaeological-data-to-ariadne",
+    "href": "index.html#linked-open-data-and-semantic-mapping-publishing-your-archaeological-data-to-ariadne",
+    "title": "ADS Transnational Access Training School",
+    "section": "Linked Open Data and Semantic Mapping: Publishing your archaeological data to ARIADNE",
+    "text": "Linked Open Data and Semantic Mapping: Publishing your archaeological data to ARIADNE\nThis five day training school will instruct participants with the understanding and practical skills needed for semantic data mapping of archaeological and heritage data. This training school will focus on how to map data and aggregate it to the ARIADNE portal, a central point of access to digital archives and online resources related to archaeology and heritage from throughout Europe.\nNo previous experience is necessary, however, participants will be required to have a real-world dataset that they would like to map to the ARIADNE Portal.\nTopics covered in this training school will include:\n\nAn Introduction to Linked Open Data\nThe principles of semantic data integration\nThe ARIADNE Portal, CIDOC-CRM and the AO-Cat Ontology\nPreparing your data to map to the ARIADNE Portal\nHow to use ARIADNE’s mapping tools and resources"
+  },
+  {
+    "objectID": "index.html#training-school-2026",
+    "href": "index.html#training-school-2026",
+    "title": "ADS Transnational Access Training School",
+    "section": "Training School 2026",
+    "text": "Training School 2026\n📆 Date 12 to 16 October 2026\n🌍 Location Guildhall, The Courtyard, Coney St, York YO1 9QN\nPlease see the Information page for more details.\n\nThe training school is provided as part of the ATRIUM Project’s Transnational Access scheme and is hosted by the Archaeology Data Service, a digital repository hosted by the Department of Archaeology at the University of York.\nThis annual program will run from 2024 through 2026, welcoming up to 10 participants each year for an intensive one-week training experience."
+  },
+  {
+    "objectID": "programme.html",
+    "href": "programme.html",
+    "title": "Training School Programme",
+    "section": "",
+    "text": "The training school will take place over five days, beginning with theoretical information, structured teaching and hands on activities and allowing time towards the end of the week to apply practices to your own datasets."
+  },
+  {
+    "objectID": "programme.html#outline",
+    "href": "programme.html#outline",
+    "title": "Training School Programme",
+    "section": "Outline",
+    "text": "Outline\nThe training school will begin by instructing participants in the foundational concepts of Linked Open Data (LOD) and semantic mapping for cultural heritage, covering key principles, benefits, and relevant standards and controlled vocabularies. Participants will learn about the development and structure of the ARIADNE portal and the data standard that underpins it - the AO-Cat ontology, a subset of CIDOC-CRM framework.\nThe remainder of the training school will be dedicated to developing practical skills for data mapping, by using ARIADNE’s mapping tools and resources including the X3ML Toolkit and Vocabulary mapping tool, as well as related software such as Open Refine. By the end of the training week, participants will have gained all the skills they need to map their archaeological and heritage data to the ARIADNE portal.\nNo previous experience is necessary, however, participants will be required to have a real-world dataset that they would like to map to the ARIADNE Portal. The workshop will use example datasets to train participants, which will lead them to map their own data to the ARIADNE portal with support from staff from the ADS and other experts.\nThis page provides the preliminary programme for the training school, including the topics covered. Further details will be added below as topics and events are finalised."
+  },
+  {
+    "objectID": "programme.html#learning-objectives",
+    "href": "programme.html#learning-objectives",
+    "title": "Training School Programme",
+    "section": "Learning Objectives",
+    "text": "Learning Objectives\n\nExplain the key principles of Linked Open Data and the relevance for archaeological and heritage data.\nDescribe the structure of the ARIADNE portal and the AO-Cat ontology.\nApply data preparation techniques using OpenRefine to clean and structure a real-world dataset for mapping.\nApply the use of the X3ML Toolkit and Vocabulary Mapping Tool to map dataset fields to AO-Cat/CIDOC-CRM classes and properties.\nBegin to produce a complete semantic mapping of their own dataset, ready for aggregation to the ARIADNE portal"
+  },
+  {
+    "objectID": "programme.html#schedule",
+    "href": "programme.html#schedule",
+    "title": "Training School Programme",
+    "section": "🗓️ Schedule",
+    "text": "🗓️ Schedule\nTraining begins each day at 9.30am and finishes at 4pm. Coffee breaks will take place in the ADS Offices. Lunch is not provided but there are a number of cafes and restaurants are in close proximity.\n\n\n\nDay\nActivity\n\n\n\n\nMonday 12th October\n10:00 - Welcome to the ADS -Julian Richards and Tim Evans, ADS 10:30 - Participant Introductions (5 mins each)\n13:00-14:00 Lunch Break 14:00 - An Introduction to Linked Open Data (principles, URIs, RDF/triples, benefits & limitations) - Nicky Garland\n16:30 - Session ends\n\n\nTuesday 13th October\n09:30 - An Introduction to the ARIADNE Portal, AO-Cat and the CIDOC CRM ecosystem - Maria Theodoridou & Émilie Pagé-Perron\n13:00-14:00 Lunch Break\n14:00 - Data Preparation with Open Refine - Sarah Middle (with assistance from all)\n16:30 - Session ends\n\n\nWednesday 14th October\n9:30 - CIDOC-CRM Mapping Strategies and Tools (3M) - Maria Theodoridou\n13:00-14:00 Lunch Break\n14:00 - Hands on Session - Using the 3M tool - Maria Theodoridou (with assistance from all)\n16:30 - Session ends\n\n16.30-17.30 Plenary Lecture (optional) - Dr Emilie Page-Perron, ADS - Towards Universal Access to Cuneiform Heritage (TUA-CH)\nFollowed by drinks in the local pub.\n\n\nThursday 15th October\n09:30 - Controlled Vocabularies and Vocabulary Matching Tools Maria Theodoridou and Sarah Middle\n13:00-14:00 Lunch Break\n14:00 - Hands on Session - Using the Vocabulary matching tool (AAT) - Sarah Middle (with assistance from all)\n16.00 - Peer Check in - in pairs review each other’s mapping-so-far (i.e. does it use correct AO-Cat classes? is vocabulary aligned?) - Nicky Garland\n16:30 - Session ends\n\n\nFriday 16th October\n09:30 - Hands on Session - Mapping to ARIADNE with our own datasets - All\n13:00-14:00 Lunch Break\n14:00 - Training School Wrap up - ARIADNE Membership/Q&A Session / Evaluation - Nicky Garland\n15:00 - Training School ends"
   }
 ]
